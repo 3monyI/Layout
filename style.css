@@ -146,7 +146,7 @@ background-color: yellow;
 
 .g-grandchild1 {
     min-height: 50px;
-    width:100%
+    width:100%;
     margin:2px;
     display:flex;
     flex-direction: column;
@@ -155,7 +155,7 @@ background-color: yellow;
 
 .lime {
     background-color: lime;
-    width:100%
+    width:100%;
     height:40%;
     margin:2px;
     flex:1;
